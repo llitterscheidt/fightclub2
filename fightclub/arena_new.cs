@@ -33,24 +33,11 @@ namespace fightclub
         {
             List<tier> lebend = new List<tier>();
             List<tier> tot = new List<tier>();
-            int lebendCount = 0;
-            int totCount = 0;
 
-            foreach (var t in teilnehmer)
-            {
-                if (t.lebendig)
-                {
-                    lebend.Add(t);
-                    lebendCount++;
-                }
-                else
-                {
-                    tot.Add(t);
-                    totCount++;
-                }
-            }
+            lebend.AddRange(teilnehmer.FindAll(x => x.lebendig));
+            tot.AddRange(teilnehmer.FindAll(x => !x.lebendig));
 
-            if (lebendCount < 2)
+            if (lebend.Count < 2)
             {
                 return new fight_result(lebend, tot, round);
             }
