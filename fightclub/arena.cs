@@ -27,8 +27,8 @@ namespace fightclub
                 int ges_ang2 = ang2 + ges_bew2;
                 int ges_ver2 = ver2 + ges_bew2;
    
-            }           
-              return rval;                 
+            }         
+            return 0;
         }
     }
 }

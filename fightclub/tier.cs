@@ -17,7 +17,12 @@ namespace fightclub
 
         public int lebenspunkte;
         public bool lebendig;
+        public bool multitarget;
        
+        public int agilitaet()
+        {
+            return (beweglichkeit + geschwindigkeit) / 2;
+        }
     }
 
     public class kleinkatze : tier

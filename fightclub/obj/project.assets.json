@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\llitterscheidt\\.nuget\\packages\\": {},
+    "C:\\Users\\fhubo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\llitterscheidt\\source\\repos\\fightclub\\fightclub\\fightclub.csproj",
+      "projectUniqueName": "C:\\Users\\fhubo\\source\\repos\\fightclub_ll\\fightclub\\fightclub.csproj",
       "projectName": "fightclub",
-      "projectPath": "C:\\Users\\llitterscheidt\\source\\repos\\fightclub\\fightclub\\fightclub.csproj",
-      "packagesPath": "C:\\Users\\llitterscheidt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\llitterscheidt\\source\\repos\\fightclub\\fightclub\\obj\\",
+      "projectPath": "C:\\Users\\fhubo\\source\\repos\\fightclub_ll\\fightclub\\fightclub.csproj",
+      "packagesPath": "C:\\Users\\fhubo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fhubo\\source\\repos\\fightclub_ll\\fightclub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\llitterscheidt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fhubo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
