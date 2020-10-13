@@ -1,0 +1,11 @@
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\bin\Debug\netcoreapp2.1\fightclub.deps.json
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\bin\Debug\netcoreapp2.1\fightclub.runtimeconfig.json
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\bin\Debug\netcoreapp2.1\fightclub.runtimeconfig.dev.json
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\bin\Debug\netcoreapp2.1\fightclub.dll
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\bin\Debug\netcoreapp2.1\fightclub.pdb
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\obj\Debug\netcoreapp2.1\fightclub.csprojAssemblyReference.cache
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\obj\Debug\netcoreapp2.1\fightclub.csproj.CoreCompileInputs.cache
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\obj\Debug\netcoreapp2.1\fightclub.AssemblyInfoInputs.cache
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\obj\Debug\netcoreapp2.1\fightclub.AssemblyInfo.cs
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\obj\Debug\netcoreapp2.1\fightclub.dll
+C:\Users\llitterscheidt\source\repos\fightclub\fightclub\obj\Debug\netcoreapp2.1\fightclub.pdb
